@@ -1,10 +1,17 @@
 # 📧 Project Title
+# 📧 Email Spam Classifier
 
-Email Spam Classifier
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://your-app-name.onrender.com)
+[![Python](https://img.shields.io/badge/Python-3.13-blue)]()
+[![Flask](https://img.shields.io/badge/Flask-Web%20App-black)]()
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)]()
+[![Render](https://img.shields.io/badge/Hosted%20on-Render-46E3B7)]()
+
+Machine Learning-based Email Spam Classifier using TF-IDF and Stacking Ensemble.
 
 # 📝 Brief Summary
 
-A machine learning-based web application that classifies emails as Spam or Ham (Legitimate) using TF-IDF and a Stacking Ensemble model.
+A machine learning-based web application that classifies emails as Spam or Ham (Legitimate) using TF-IDF and a Stacking Ensemble model. The application is deployed on Render and can be accessed here: https://email-spam-classifier-f4ev.onrender.com
 
 # 📖 Overview
 

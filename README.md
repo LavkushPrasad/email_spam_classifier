@@ -1,7 +1,7 @@
 # 📧 Project Title
 # 📧 Email Spam Classifier
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://your-app-name.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://email-spam-classifier-f4ev.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.13-blue)]()
 [![Flask](https://img.shields.io/badge/Flask-Web%20App-black)]()
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)]()

@@ -1,11 +1,15 @@
 # 📧 Project Title
 # 📧 Email Spam Classifier
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://email-spam-classifier-f4ev.onrender.com)
-[![Python](https://img.shields.io/badge/Python-3.13-blue)]()
-[![Flask](https://img.shields.io/badge/Flask-Web%20App-black)]()
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)]()
-[![Render](https://img.shields.io/badge/Hosted%20on-Render-46E3B7)]()
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Render-success)](https://email-spam-classifier-f4ev.onrender.com)
+[![Python](https://img.shields.io/badge/Python-3.10.8-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-Web_App-black)](https://flask.palletsprojects.com/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)](https://scikit-learn.org/)
+[![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Ldvkudgfhdd)
+<!-- [![License](https://img.shields.io/badge/License-MIT-green)]() -->
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ldvkudgfhdd)
+
 
 Machine Learning-based Email Spam Classifier using TF-IDF and Stacking Ensemble.
 

@@ -2,13 +2,14 @@
 # 📧 Email Spam Classifier
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Render-success)](https://email-spam-classifier-f4ev.onrender.com)
+[![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas&logoColor=peach)](https://pandas.pydata.org/)
 [![Python](https://img.shields.io/badge/Python-3.10.8-blue)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-Web_App-black)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/Flask-Web_App-yellow)](https://flask.palletsprojects.com/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)](https://scikit-learn.org/)
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/Ldvkudgfhdd)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=cyan)](https://github.com/LavkushPrasad)
 <!-- [![License](https://img.shields.io/badge/License-MIT-green)]() -->
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ldvkudgfhdd)
 
 
 Machine Learning-based Email Spam Classifier using TF-IDF and Stacking Ensemble.

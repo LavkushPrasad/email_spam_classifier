@@ -7,7 +7,7 @@ const charCountEl = document.getElementById('char-count');
 textarea.addEventListener('input', function () {
   const len = this.value.length;
   charCountEl.textContent = len + ' / 2000';
-  charCountEl.style.color = len > 1950 ? '#f87171' : '#4b5563';
+  charCountEl.style.color = len > 1900 ? '#f87171' : '#4b5563';
 });
 
 // ---- Clear input ----

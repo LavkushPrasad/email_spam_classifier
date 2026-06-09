@@ -6,14 +6,14 @@ const charCountEl = document.getElementById('char-count');
 
 textarea.addEventListener('input', function () {
   const len = this.value.length;
-  charCountEl.textContent = len + ' / 250';
-  charCountEl.style.color = len > 200 ? '#f87171' : '#4b5563';
+  charCountEl.textContent = len + ' / 2000';
+  charCountEl.style.color = len > 1950 ? '#f87171' : '#4b5563';
 });
 
 // ---- Clear input ----
 function clearInput() {
   textarea.value = '';
-  charCountEl.textContent = '0 / 250';
+  charCountEl.textContent = '0 / 2000';
   charCountEl.style.color = '#4b5563';
   document.getElementById('result').innerHTML = '';
 }

@@ -1,5 +1,5 @@
-# 📧 Project Title
-# 📧 Email Spam Classifier
+# Project Title
+# Email Spam Classifier
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Render-success)](https://email-spam-classifier-f4ev.onrender.com)
 [![NumPy](https://img.shields.io/badge/NumPy-Data_Processing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
@@ -14,27 +14,27 @@
 
 Machine Learning-based Email Spam Classifier using TF-IDF and Stacking Ensemble.
 
-# 📝 Brief Summary
+# Brief Summary
 
 A machine learning-based web application that classifies emails as Spam or Ham (Legitimate) using TF-IDF and a Stacking Ensemble model. The application is deployed on Render and can be accessed here: https://email-spam-classifier-f4ev.onrender.com
 
-# 📖 Overview
+# Overview
 
 This project is a Machine Learning-based Email Spam Detection System that classifies emails as Spam or Ham (Legitimate) using a Stacking Ensemble Learning approach.
 
 The model combines the strengths of multiple machine learning algorithms to improve classification performance and reduce false predictions.
 
-# ❓ Problem Statement
+# Problem Statement
 
 Email spam and phishing attacks continue to be major cybersecurity threats. Manually filtering unwanted emails is inefficient and error-prone. This project aims to automate spam detection using machine learning techniques.
 
-# 📊 Dataset
+# Dataset
 
 * SMS Spam Collection Dataset (used for model training and experimentation)
 * Contains labeled spam and ham messages
 * Preprocessed and transformed using TF-IDF Vectorization
 
-# 🛠️ Tools and Technologies
+# Tools and Technologies
 
 * Python
 * Flask
@@ -47,7 +47,7 @@ Email spam and phishing attacks continue to be major cybersecurity threats. Manu
 * JavaScript
 * Git & GitHub
 
-# ⚙️ Methods
+# Methods
 
 1. Data Cleaning and Preprocessing
 2. Text Vectorization using TF-IDF
@@ -60,13 +60,13 @@ Email spam and phishing attacks continue to be major cybersecurity threats. Manu
 5. Model Evaluation
 6. Flask Deployment
 
-# 🔍 Key Insights
+# Key Insights
 
 * TF-IDF effectively converts text into numerical features.
 * Stacking Ensemble combines multiple models to improve robustness.
 * Ensemble methods achieved better overall performance compared to individual models.
 
-# 📈 Dashboard / Model / Output
+# Dashboard / Model / Output
 
 ### Input
 
@@ -81,7 +81,7 @@ TF-IDF Vectorization → Stacking Ensemble Prediction
 * Spam Email 🚨
 * Ham (Legitimate) Email ✅
 
-# ▶️ How to Run this Project?
+# How to Run this Project?
 
 ### Clone Repository
 
@@ -115,11 +115,11 @@ Open:
 http://127.0.0.1:5000
 ```
 
-# 📌 Results & Conclusion
+# Results & Conclusion
 
 The model successfully classifies spam and legitimate messages using machine learning techniques. The Stacking Ensemble model demonstrated strong classification performance and provides a practical approach for spam detection applications.
 
-# 🚀 Future Work
+# Future Work
 
 * Train on large-scale email datasets such as Enron and SpamAssassin
 * Add phishing detection features
